@@ -1,0 +1,15 @@
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\NLP.Model.csproj.AssemblyReference.cache
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\NLP.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\NLP.Model.AssemblyInfoInputs.cache
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\NLP.Model.AssemblyInfo.cs
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\NLP.Model.csproj.CoreCompileInputs.cache
+C:\Users\ali.ulker\source\repos\API\NLP.Model\bin\Debug\net6.0\NLP.Model.deps.json
+C:\Users\ali.ulker\source\repos\API\NLP.Model\bin\Debug\net6.0\NLP.Model.dll
+C:\Users\ali.ulker\source\repos\API\NLP.Model\bin\Debug\net6.0\NLP.Model.pdb
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\scopedcss\bundle\NLP.Model.styles.css
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\NLP.Model.dll
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\refint\NLP.Model.dll
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\NLP.Model.pdb
+C:\Users\ali.ulker\source\repos\API\NLP.Model\obj\Debug\net6.0\ref\NLP.Model.dll
